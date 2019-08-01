@@ -1,0 +1,17 @@
+Controls - 
+Bunnyhop - F1 toggle (hold space to bunny hop)
+Rapid fire - F2 toggle (hold middle mouse to rapid fire)
+Perfect 180 turnaround - F3 toggle (press T to do 180°)
+AK-47 norecoil - default F4
+M4A1-S norecoil - default F6
+M4A4 norecoil - default F7
+Famas norecoil - default F8
+Galil norecoil - default F9
+UMP-45 norecoil - default F12
+AUG norecoil - default Home
+SG 553 norecoil - default End
+AUG and SG 553 zoom modifier - default Left Alt (hold when scoped in with aug or sg 553)
+Disable norecoil - default F11
+Panic button - F10 (terminates autohotkey)
+Set weapon you are using by pressing its F(number) button and then just hold left mouse button and you will start compensating
+
