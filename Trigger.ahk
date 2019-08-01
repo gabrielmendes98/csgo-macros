@@ -1,6 +1,7 @@
 ﻿; A color based triggerbot. 
 ; When something very different to the current pixel color crosses the crosshair, it shoots automatically.
 ; This way, it prevent to shoot when you move the scope through the same texture, because it pixel colors don't vary much.
+; CSGO must be in windowed mode
 
 #SingleInstance Force
 
